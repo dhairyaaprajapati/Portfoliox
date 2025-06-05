@@ -12,7 +12,7 @@ A sleek and modern developer portfolio built using **HTML**, **Tailwind CSS**, a
 
 ## 🚀 Live Demo
 
-🔗 [View My Portfolio](https://dhairyaaprajapati.github.io/Portfoliox/)
+🔗 [View My Portfolio]()
 
 ## 🛠️ Tech Stack
 
