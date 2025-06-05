@@ -33,4 +33,4 @@ cd Portfoliox
 
 I’m **Dhairya Prajapati**, a DevOps Engineer and Python Developer passionate about creating efficient systems and scalable applications. I specialize in CI/CD automation, cloud infrastructure, and Python development. I’m also passionate about building beautiful and functional web experiences.
 📧 Email: [dhairyaprajapati27@gmail.com](mailto:dhairyaprajapati27@gmail.com)
-🌐 LinkedIn: [Your Profile](https://linkedin.com/in/YOUR-USERNAME)
+🌐 LinkedIn: [LinkedIn](https://linkedin.com/in/YOUR-USERNAME)
