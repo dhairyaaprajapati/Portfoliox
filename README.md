@@ -10,10 +10,6 @@ A sleek and modern developer portfolio built using **HTML**, **Tailwind CSS**, a
 * 💬 Contact form for collaboration
 * ✨ Smooth animations & modern UI
 
-## 🚀 Live Demo
-
-🔗 [View My Portfolio]()
-
 ## 🛠️ Tech Stack
 
 * HTML5
