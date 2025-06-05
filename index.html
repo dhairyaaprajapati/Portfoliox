@@ -222,7 +222,7 @@
             margin-bottom: 25px;
         }
 
-        .profile-img {
+        /* .profile-img {
             width: 80px;
             height: 80px;
             border-radius: 50%;
@@ -233,7 +233,25 @@
             margin-right: 20px;
             font-size: 2.5rem;
             color: var(--primary);
-        }
+        } */
+        .profile-img {
+            width: 100px; /* Increased size */
+            height: 100px; /* Increased size */
+            border-radius: 50%;
+            overflow: hidden;
+            margin-right: 20px;
+            border: 3px solid var(--primary);
+            background: linear-gradient(135deg, #e0f2fe 0%, #bfdbfe 100%);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            }
+
+        .profile-img img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            }
 
         .profile-info h3 {
             font-size: 1.5rem;
@@ -800,7 +818,7 @@
                     <div class="profile-card">
                         <div class="profile-header">
                             <div class="profile-img">
-                                <i class="fas fa-user"></i>
+                                <img src="/images/profile.jpg" alt="Dhairya Prajapati">
                             </div>
                             <div class="profile-info">
                                 <h3>Dhairya Prajapati</h3>
