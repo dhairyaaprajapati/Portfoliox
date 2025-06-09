@@ -20,8 +20,12 @@ A sleek and modern developer portfolio built using **HTML**, **Tailwind CSS**, a
 ## 🧾 How to Use
 
 ```bash
+# Step 1: Clone the repository
 git clone https://github.com/dhairyaaprajapati/Portfoliox.git
+
+# Step 2: Navigate to the project folder
 cd Portfoliox
+
 # Open index.html in your browser
 ```
 
