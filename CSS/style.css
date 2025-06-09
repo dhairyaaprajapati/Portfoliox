@@ -577,6 +577,19 @@ section {
     color: var(--gray);
     font-size: 0.9rem;
 }
+.cert-info a {
+   text-decoration: none;
+    color: var(--dark);
+    transition: var(--transition); 
+}
+.cert-info a:hover {
+    color: var(--primary);
+}
+.invisible-link {
+    text-decoration: none;
+    color: inherit;
+    cursor: pointer;
+}
 
 /* Footer */
 footer {
